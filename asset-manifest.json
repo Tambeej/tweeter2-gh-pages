@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tweeter2-gh-pages/static/css/main.6f07e587.css",
+    "main.js": "/tweeter2-gh-pages/static/js/main.ae8747e5.js",
+    "static/js/453.d29ecc64.chunk.js": "/tweeter2-gh-pages/static/js/453.d29ecc64.chunk.js",
+    "index.html": "/tweeter2-gh-pages/index.html",
+    "main.6f07e587.css.map": "/tweeter2-gh-pages/static/css/main.6f07e587.css.map",
+    "main.ae8747e5.js.map": "/tweeter2-gh-pages/static/js/main.ae8747e5.js.map",
+    "453.d29ecc64.chunk.js.map": "/tweeter2-gh-pages/static/js/453.d29ecc64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f07e587.css",
+    "static/js/main.ae8747e5.js"
+  ]
+}
